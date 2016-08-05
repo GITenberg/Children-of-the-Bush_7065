@@ -1,0 +1,35 @@
+_repo: Children-of-the-Bush_7065
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lawson, Henry
+    alias: Lawson, Henry Archibald Hertzberg
+    birthdate: 1867
+    deathdate: 1922
+    gutenberg_agent_id: '119'
+    url: http://www.gutenberg.org/2009/agents/119
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Lawson
+description: Cover -- Contents.
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7065'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Australia -- Social life and customs -- Fiction'
+- GITenberg
+tableOfContents: 'Send round the hat -- That pretty girl in the army -- "Lord Douglas"
+  -- The blindness of One-Eyed Bogan -- Two sundowners -- A sketch of mateship --
+  On the tucker track: a Steelman story -- A bush publican''s lament -- The shearer''s
+  dream -- The Lost Souls'' Hotel -- The boozers'' home -- The sex problem again --
+  The romance of the swag -- "Buckolts'' Gate" -- The bush-fire -- The house that
+  was never built -- "Barney, take me home again" -- A droving yarn -- Gettin'' back
+  on Dave Regan -- "Shall we gather at the river?" -- His brother''s keeper -- The
+  story of "Gentleman Once" -- The ghosts of many Christmases.'
+title: Children of the Bush
+url: http://www.gutenberg.org/ebooks/7065
